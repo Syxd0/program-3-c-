@@ -3,16 +3,6 @@ C module 3
 
 EX NO:3-c) Read and print the elements of first row of an array.
 
-Date:19/10/2025
-
-
-
-Name: VASANTH S
-
-
-
-Ref no: 25017538
-
 
 AIM:
 To write a C program to read the elements of an array and print the first element of each row.
